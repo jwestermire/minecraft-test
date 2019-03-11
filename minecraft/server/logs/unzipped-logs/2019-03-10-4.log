@@ -1,0 +1,62 @@
+[20:30:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:30:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:30:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:30:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:30:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:30:20] [main/INFO]: Loaded 0 recipes
+[20:30:20] [main/INFO]: Loaded 0 advancements
+[20:30:20] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[20:30:20] [Server thread/INFO]: Loading properties
+[20:30:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:30:20] [Server thread/INFO]: Generating keypair
+[20:30:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:30:21] [Server thread/INFO]: Using epoll channel type
+[20:30:21] [Server thread/INFO]: Preparing level "world"
+[20:30:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:30:22] [Server thread/INFO]: Loaded 524 recipes
+[20:30:22] [Server thread/INFO]: Loaded 571 advancements
+[20:30:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 4%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 8%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 12%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 16%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 20%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 24%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 28%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 32%
+[20:30:23] [Server thread/INFO]: Preparing spawn area: 36%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 40%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 44%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 48%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 52%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 56%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 60%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 64%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 68%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 72%
+[20:30:24] [Server thread/INFO]: Preparing spawn area: 76%
+[20:30:25] [Server thread/INFO]: Preparing spawn area: 80%
+[20:30:25] [Server thread/INFO]: Preparing spawn area: 84%
+[20:30:25] [User Authenticator #1/INFO]: UUID of player Rmphoenix66 is 46b16254-5521-434d-9786-f28397dbc863
+[20:30:25] [Server thread/INFO]: Preparing spawn area: 88%
+[20:30:25] [Server thread/INFO]: Preparing spawn area: 92%
+[20:30:25] [Server thread/INFO]: Preparing spawn area: 96%
+[20:30:25] [Server thread/INFO]: Preparing spawn area: 100%
+[20:30:25] [Server thread/INFO]: Time elapsed: 2673 ms
+[20:30:25] [Server thread/INFO]: Done (4.163s)! For help, type "help"
+[20:30:26] [Server thread/INFO]: Rmphoenix66[/67.180.120.7:52773] logged in with entity id 252 at (-94.63470105972652, 5.0, -208.02794289209734)
+[20:30:26] [Server thread/INFO]: Rmphoenix66 joined the game
+[20:30:43] [Server thread/INFO]: Unknown command
+[20:30:43] [Server thread/INFO]: shutdown<--[HERE]
+[20:30:45] [Server thread/INFO]: Rmphoenix66 lost connection: Disconnected
+[20:30:45] [Server thread/INFO]: Rmphoenix66 left the game
+[20:30:52] [Server thread/INFO]: Unknown command
+[20:30:52] [Server thread/INFO]: shutdown<--[HERE]
+[20:30:55] [Server thread/INFO]: Unknown command
+[20:30:55] [Server thread/INFO]: exit<--[HERE]
+[20:30:58] [Server Shutdown Thread/INFO]: Stopping server
+[20:30:58] [Server Shutdown Thread/INFO]: Saving players
+[20:30:58] [Server Shutdown Thread/INFO]: Saving worlds
+[20:30:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:30:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:30:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

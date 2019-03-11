@@ -1,0 +1,38 @@
+---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 3/11/19 12:58 AM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at bne.<init>(SourceFile:10)
+	at bnk.<init>(SourceFile:27)
+	at bnv.a(SourceFile:679)
+	at bnv.a(SourceFile:496)
+	at bnv.a(SourceFile:189)
+	at bnv.a(SourceFile:141)
+	at tc.a(SourceFile:102)
+	at tc.a(SourceFile:146)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:429)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:345)
+	at so.d(SourceFile:251)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:566)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.2
+	Operating System: Linux (amd64) version 4.9.70-22.55.amzn1.x86_64
+	Java Version: 1.8.0_191, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 48128 bytes (0 MB) / 253427712 bytes (241 MB) up to 253427712 bytes (241 MB)
+	JVM Flags: 0 total; 
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
